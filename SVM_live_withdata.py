@@ -2,7 +2,6 @@ import bitmex
 import numpy as np
 import pandas as pd
 from joblib import dump, load
-from Super_svm import SuperSVM
 import Data_flow as flow
 import Gen_inputs as indic
 
