@@ -1,4 +1,10 @@
 # Predicting-the-Price-Movements-of-Bitcoin
+
+This was for my final year thesis.
+But really this was just to get my foot in the door when it comes to machine learning it was just a fun project for a classification problem, In reality the system wouldn't be profitable when you take into account the trading fees.
+
+
+
 Predicting the price move of bitcoin minute by minute using Bitmex Websocket for data
 1. Abstract:
 
