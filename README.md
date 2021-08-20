@@ -1,8 +1,8 @@
 # Predicting-the-Price-Movements-of-Bitcoin
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This was for my final year thesis,
-but really this was just to get my foot in the door when it comes to machine learning. It was just a fun project for a classification problem, In reality the system wouldn't be profitable when you take into account the trading fees.
+This project was for my final year thesis,
+it was just to get my foot in the door when it comes to machine learning. It was just a fun project for a classification problem, In reality the system wouldn't be profitable when you take into account the trading fees.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
